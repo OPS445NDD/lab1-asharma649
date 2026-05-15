@@ -8,6 +8,6 @@ test_b (__main__.lab1b.test_b)
 [Lab 1] - [Investigation 4] - string objects & printing - Test for correct output "How old are you Isaac?": ./lab1b.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.082s
+Ran 4 tests in 0.077s
 
 OK

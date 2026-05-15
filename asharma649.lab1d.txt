@@ -8,6 +8,6 @@ test_b (__main__.lab1d.test_b)
 [Lab 1] - [Investigation 5] - math operators - Test output for correct output "10 + 2 * 5 = 20": ./lab1d.py ... ok
 
 ----------------------------------------------------------------------
-Ran 4 tests in 0.091s
+Ran 4 tests in 0.094s
 
 OK
